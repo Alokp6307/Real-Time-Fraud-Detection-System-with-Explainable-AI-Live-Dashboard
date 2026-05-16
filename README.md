@@ -1,0 +1,2 @@
+# Real-Time-Fraud-Detection-System-with-Explainable-AI-Live-Dashboard
+Developed a Machine Learning based Customer Churn Prediction System using telecom customer data identify users to discontinue services. Performed data cleaning, preprocessing, exploratory data analysis, and implemented Gradient Boosting model for churn prediction. Achieved ROC-AUC score of 0.842 and generated business-focused retention strategies.
